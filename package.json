@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/berdey443/tigertea.git"
+    "url": "https://github.com/berdey443/tigertea.git"
   },
   "dependencies": {
     "tealikelove": "1.0.0"
